@@ -18,7 +18,7 @@ public class FuncionarioService {
         // Inicializando com dados mockados
         funcionarios.add(new Funcionario(
             1L,
-            "Carlos Silva",
+            "Fellype Dias",
             "Professor",
             "Engenharia de Software",
             LocalDate.of(2015, 3, 15),
@@ -27,7 +27,7 @@ public class FuncionarioService {
         
         funcionarios.add(new Funcionario(
             2L,
-            "Ana Costa",
+            "Ana Luisa",
             "Coordenadora Acadêmica",
             "Ensino",
             LocalDate.of(2010, 8, 20),
@@ -36,7 +36,7 @@ public class FuncionarioService {
         
         funcionarios.add(new Funcionario(
             3L,
-            "João Oliveira",
+            "Wilson Nishi",
             "Zelador",
             "Infraestrutura",
             LocalDate.of(2018, 1, 10),
@@ -45,7 +45,7 @@ public class FuncionarioService {
         
         funcionarios.add(new Funcionario(
             4L,
-            "Maria Santos",
+            "William Alves",
             "Professora",
             "Administração",
             LocalDate.of(2012, 6, 1),
@@ -54,7 +54,7 @@ public class FuncionarioService {
         
         funcionarios.add(new Funcionario(
             5L,
-            "Pedro Martins",
+            "Wendell Douglas",
             "Técnico Administrativo",
             "Recursos Humanos",
             LocalDate.of(2019, 2, 15),
