@@ -1,0 +1,24 @@
+package com.novahorizonte.backend.model;
+
+import java.math.BigDecimal;
+import java.time.LocalDate;
+
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
+@Getter
+@Setter
+@NoArgsConstructor
+@AllArgsConstructor
+public class FiveW2H {
+
+    private String what;
+    private String why;
+    private String where;
+    private LocalDate when;
+    private String who;
+    private String how;
+    private BigDecimal howMuch;
+}
